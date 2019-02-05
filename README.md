@@ -1,12 +1,13 @@
 # Ethereum Security Database
 
-Code to generate all possible ethereum private keys
-Used the api from [PyEthereum](https://github.com/ethereum/pyethereum) to get the corresponding public keys
+Code to generate all possible ethereum private keys.
+
+Used the api from [PyEthereum](https://github.com/ethereum/pyethereum) to get the corresponding public keys.
 
 n_skip = setting the number of times it skips.
 
 ```bash
-git clone https://github.com/ziyaadparker/eth-secure/
+git clone https://github.com/ziyaadparker/eth-secure.git
 cd eth-secure
 python generate.py
 ```
